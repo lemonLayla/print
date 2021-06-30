@@ -1,5 +1,5 @@
-# author: <name here>
-# date: <date here>
+# author: Layla Jones
+# date: 00/00/0000
 
 # This is you first project! Today you will be familiarizing yourself with the print() statement.
 # What you are reading right now is a comment, which is annotation in source code. Don't worry about it too much, just
@@ -22,7 +22,7 @@
 #       W3Schools  | https://www.w3schools.com/python/ref_func_print.asp
 
 # Project 1.1
-#   1) Print your first name.
+#   1) print your first name
 #   2) Print your birthday.
 #   3) Print an artist or song that you like listening to right now.
 #
@@ -32,8 +32,9 @@
 #   frank ocean
 #
 # WRITE CODE BELOW
-print('elia')
-
+print('layla')
+print(' 04/20/06')
+print('need', 'me', 'by', 'j.i')
 # Project 1.2
 #   1) Print your first and last name using separation with commas. Separate your first and last name.
 #   2) Print the date using separation with commas, separating the month, day, and year.
@@ -46,7 +47,10 @@ print('elia')
 #   bat-eared fox (otocyon megalotis)
 #
 # WRITE CODE BELOW
-print('elia', 'deppe')
+print('layla', 'jones')
+print('june', '30', '2021')
+print('raccoon',('procyon','lotor')
+
 
 # Project 1.3
 #   1) Print the first 2-5 letters of a country's name with another country's last 2-5 letters of it's name. Use
@@ -64,6 +68,15 @@ print('elia', 'deppe')
 #
 #
 # WRITE CODE BELOW
+print('franmany')
+
+print('everything', 'you', 'do', 'every', 'where', 'you', 'go', 'now')
+
+print('everything','you', 'touch', 'evrything', 'you', 'feel', 'evrything' ,'you', 'do')
+
+print('even', 'your', 'rock', 'n', 'roll', 'now')
+
+print ('nothing','mean', 'a', 'thing', 'except', 'you', 'and' ,'your', 'lady', 'love')
 
 
 # Finally your last instructions are to set the theme of your IDE. To do so follow these instructions
